@@ -30,9 +30,21 @@ There are no of child processes which are created by the main master depending u
 
 To Run the steps are 
 1)git clone the code
+
+
 2)npm install
+
+
 3)node index.js 
+
+
 4)in simutalenous node index1.js
+
+
 5) autocannon -c 100 http://localhost:4001/api/50000000
+
+ 
 6)autocannon -c 100 http://localhost:5000/api/50000000
+
+
 To see the results of the following code based on 100 tests
