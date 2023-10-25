@@ -41,7 +41,7 @@ To Run the steps are
 4)in simutalenous node index1.js
 
 
-5) autocannon -c 100 http://localhost:4001/api/50000000
+5)autocannon -c 100 http://localhost:4001/api/50000000
 
  
 6)autocannon -c 100 http://localhost:5000/api/50000000
